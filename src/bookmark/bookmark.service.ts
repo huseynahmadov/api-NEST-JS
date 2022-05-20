@@ -7,7 +7,7 @@ import {
   import {
     CreateBookmarkDto,
     EditBookmarkDto,
-  } from './dto';
+  } from './dto/';
   
   @Injectable()
   export class BookmarkService {
